@@ -19,13 +19,5 @@ I'm coding along with the videos and pushing my work regularly as part of my lea
 All tutorials and explanations are from [CampusX YouTube Channel](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH).  
 This repository is purely for educational purposes and to document my learning.
 
----
-
-## 🔄 Updates
-
-I’ll keep updating this repository as I complete more tutorials. Feel free to follow along or fork if you're learning too!
-
----
-
 ## 🚀 Let's Learn!
 
